@@ -1,7 +1,7 @@
 ### Hi there 😄
 
 - Some stuff I work with:
-[!amazonaws](https://img.shields.io/badge/amazonaws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
+![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)  
 ![podman](https://img.shields.io/badge/podman-892CA0?logo=podman&logoColor=white&style=for-the-badge)  
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
 ![gnubash](https://img.shields.io/badge/gnubash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
