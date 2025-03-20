@@ -7,9 +7,8 @@ Some stuff I work with:
 ![gnubash](https://img.shields.io/badge/gnubash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)  
 ![Terraform](https://img.shields.io/badge/terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-<!--
 ![terragrunt](https://img.shields.io/badge/terragrunt-844FBA?logo=terragrunt&logoColor=white&style=for-the-badge)
--->
+
 
 <!--
 **justin-octo/justin-octo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
